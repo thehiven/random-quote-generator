@@ -1,4 +1,2 @@
 # Random Quote Generator
-## Demo
-This project has publicly available demo
-[RandomeQuoteGenerator](https://ozarkstudios.com/techdegree/techdegree-project-1/)
+A very simple project just for fun built using vanilla JavaScript.
